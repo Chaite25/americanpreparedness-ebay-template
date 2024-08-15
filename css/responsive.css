@@ -119,6 +119,10 @@
         display:block;
         text-align:center;
     }
+
+    .product-dec tbody{
+bordder: none;
+    }
 }
 
 /***** Wide Mobile Layout *****/
