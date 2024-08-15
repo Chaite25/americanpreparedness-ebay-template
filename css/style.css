@@ -67,6 +67,7 @@ img {
     background-color: #B11723;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
+        margin-top: 10px;
 }
 
 .service-box {
@@ -187,7 +188,8 @@ img {
     color: #fff;
 }
 
-.product-dec h3 {
+.product-dec h3,
+.product-dec h1 {
     font-family: 'Open Sans', sans-serif;
     color: #fff;
     text-transform: capitalize;
