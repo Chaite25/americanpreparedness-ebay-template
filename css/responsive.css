@@ -116,9 +116,9 @@
         display:block;
         text-align:center;
     }
-
+    .product-dec table,
     .product-dec table tr{
-border: none !important;
+         border: none !important;
     }
 }
 
