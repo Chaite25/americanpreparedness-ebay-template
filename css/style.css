@@ -93,12 +93,7 @@ img {
     text-align: right;
 }
 
-.service-left i {
-    font-size: 40px;
-    color: #B11723;
-}
-
-.service-left img {
+.service-left .flag {
     border-radius: 100%;
 }
 
@@ -189,7 +184,6 @@ img {
     border: 1px solid #fff;
     padding: 30px;
     margin-top: 10px;
-    color: #fff;
 }
 
 .product-dec h3 {
