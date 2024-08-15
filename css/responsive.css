@@ -113,15 +113,12 @@
     .product-dec tbody, 
     .product-dec td p table div, 
     .product-dec table table{
-        width:100%!important;
-        float:left;
-        clear:both;
         display:block;
         text-align:center;
     }
 
-    .product-dec tbody{
-bordder: none;
+    .product-dec table tr{
+border: none !important;
     }
 }
 
